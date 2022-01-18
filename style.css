@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+@import url('https://fonts.googleapis.com/css2? family= Puppies+Play & display=swap');
 .navbar {
     background-color: rgb(102, 165, 158, 100%);
     color: black;
@@ -39,15 +40,22 @@
     margin-bottom: 4px;
 }
 .titre1{
-    padding: 0 auto;
+    padding: 10px 0;
+    text-align: center;
 }
 .pupilles{
-    font-size: 40px;
+    color: rgb(102, 165, 158, 100%);
+    font-size: 2.5rem;
     font-weight: bold;
     text-transform: uppercase;
 }
 .papilles{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3.125rem;
+    color: rgb(162, 134, 94, 100%);
+    font-family: "Puppies Play";
+}
+.blog{
+    font-size: 1.5rem;
 }
 @media all and (max-width: 630px) {
     .navbar{

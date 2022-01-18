@@ -16,7 +16,12 @@
     //on écrit le contenu de la page
 ?>
 <p>contenu de la page d'accueil</p>
-
+<div class="fist row">
+    <div class="last_post">
+        <div class="lpimage"><a href=""></a></div>
+    </div>
+    <div class="penultimate_post"></div>
+</div>
 <?php
     require_once "includes/connect.php";
 
