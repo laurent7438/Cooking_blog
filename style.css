@@ -38,6 +38,17 @@
     background-color: white;
     margin-bottom: 4px;
 }
+.titre1{
+    padding: 0 auto;
+}
+.pupilles{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.papilles{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 @media all and (max-width: 630px) {
     .navbar{
         flex-direction: column;

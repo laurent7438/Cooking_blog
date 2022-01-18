@@ -19,3 +19,14 @@
 
 <?php
     require_once "includes/connect.php";
+
+
+
+
+?>
+
+
+<?php
+
+    //on inclut le footer
+    include "includes/footer.php"; 

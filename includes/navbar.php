@@ -1,5 +1,5 @@
 <nav class="navbar">
-        <div><a href="#"><img class="primary-icon" src="./icône pupilles et papilles" alt=""></a></div>
+        <div><a href="#"><img class="primary-icon" src="" alt=""></a></div>
         <ul class="nav-list" id="navi-list">
             <li class="list-item"><a href="#">Accueil</a></li>
             <li class="list-item"><a href="#">Articles</a></li>
@@ -12,3 +12,9 @@
             <div class="menu-line"></div>
         </div>
     </nav>
+    <div>
+        <h1 class= "titre1">
+            <span class ="pupilles">Pupilles</span> & <span class ="papilles">Papilles</span>
+        </h1>
+    </div>
+    <!-- ../assets/icône\ pupilles\ et\ papilles.jpg -->
